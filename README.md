@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi, I am Supreet. Welcome to my repo. I am committed to become a great musician and a great software engineer.
+I love the opensource communities, and I love how they have shaped the entire ecosystem in tech. I owe my career in tech to
+Vim, Neovim, PopOs, Manjaro and zsh. These are some of the projects that have always inspired me. 
+
+
+I am currently studying the internals of the Linux Kernel, Rust and C++. 
+
+
+Projects that I have completed in Rust include 
+- Noterm: Sticky notes for the terminal
+- Lyricist: Touch typing trainer which trains you on the song lyrics
+
+
+I am also writting my own programming language, I call it Voodoo. It is compiled and stricly typed programming language which is written in C++. I have finished writing the lexer and on the final stages of the 
+parser.
+
+
+Wish me all the best. 

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hi, I am Supreet. Welcome to my repo. I am committed to become a great musician and a great software engineer.
 I love the opensource communities, and I love how they have shaped the entire ecosystem in tech. I owe my career in tech to
-Vim, Neovim, PopOs, Manjaro and zsh. These are some of the projects that have always inspired me. 
+Vim, Neovim, PopOs, and Manjaro. 
 
 
 I am currently studying the internals of the Linux Kernel, Rust and C++. 
